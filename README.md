@@ -303,23 +303,6 @@ Synthesize Findings
 - Jupyter Notebook
 - Key packages: pandas, numpy, scikit-learn, matplotlib, seaborn, xgboost
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/kartik2002-sp/WALMART-Analysis-AI-_ML.git
-   cd WALMART-Analysis-AI-_ML
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Launch Jupyter**
-   ```bash
-   jupyter notebook
-   ```
 
 4. **Execute notebooks in sequence** (01 → 08)
 

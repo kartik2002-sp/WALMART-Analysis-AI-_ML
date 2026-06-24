@@ -393,7 +393,7 @@ Contributions are welcome! Please follow these steps:
 ## 📧 Contact
 
 For questions or feedback:
-- **Email**: kartik2002.sp@example.com
+- **Email**: kartiksharma9815@gmail.com
 - **GitHub**: [@kartik2002-sp](https://github.com/kartik2002-sp)
 
 ## 📚 Resources
